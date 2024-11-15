@@ -40,3 +40,6 @@ plt.show()
 # b represents 1/τ (decay rate)                                             b = 1/τ
 # mRNA production rate α can be calculated as α = a * b
 # mRNA lifetime τ can be calculated as τ = 1/b
+
+### guess a ~80 weil dort steady state, bzw nähert sich dem wert an -> concentration @ equilibrium
+### b around 1 because half time to equilibrium -> dacay rate
