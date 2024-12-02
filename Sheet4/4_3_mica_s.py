@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3 --no-rcs
 
-# Exercise 4.1
+# Exercise 4.3
 # Random walks
 
 x = 0               # Startponit for the random walk in one dimension

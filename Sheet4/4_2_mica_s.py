@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3 --no-rcs
 
-# Exercise 4.1
+# Exercise 4.2
 # Postitive and negative feed-back
 
 # What is the typical fixed point structure of a negative feedback loop?
