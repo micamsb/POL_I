@@ -3,6 +3,8 @@
 # Exercise 4.2
 # Postitive and negative feed-back
 
+# Solved together with Cindy Seibt
+
 # What is the typical fixed point structure of a negative feedback loop?
     # A single stable fixed point is common, so the system settles at one equilibrium state.
     # The negative feedback loop ensures that the system corrects deviation which contributes to a higher stability.

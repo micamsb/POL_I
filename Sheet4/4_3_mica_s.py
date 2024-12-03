@@ -3,6 +3,8 @@
 # Exercise 4.3
 # Random walks
 
+# Solved together with Cindy Seibt
+
 x = 0               # Startponit for the random walk in one dimension
 pr = 0.57           # Probability of moving right
 pl = 1 - pr         # Probability of moving left
