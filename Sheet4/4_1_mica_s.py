@@ -3,6 +3,8 @@
 # Exercise 4.1
 # Stochastic protein production
 
+# Solved together with Cindy Seibt
+
 # α = Protein production rate
 # β = Molecule degradation rate
 # α∆t = Probability that one protein is produced
